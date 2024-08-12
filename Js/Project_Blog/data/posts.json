@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Bem-vindo ao Meu Blog",
+      "content": "Esta é a primeira postagem do meu novo blog. Aqui, vou compartilhar minhas ideias e projetos. Fique ligado para mais atualizações!"
+    },
+    {
+      "id": 2,
+      "title": "Explorando JavaScript e Node.js",
+      "content": "Hoje, quero falar sobre como estou aprendendo a usar JavaScript e Node.js para desenvolver projetos completos. A experiência tem sido incrível até agora."
+    },
+    {
+      "id": 3,
+      "title": "Dicas para Melhorar seu Código",
+      "content": "Escrever código limpo e eficiente é essencial. Aqui estão algumas dicas que aprendi ao longo do tempo para melhorar a qualidade do meu código."
+    },
+    {
+      "id": 4,
+      "title": "Meu Primeiro Projeto Web",
+      "content": "Estou muito animado para compartilhar meu primeiro projeto web desenvolvido com Node.js. Foi um desafio, mas aprendi muito ao longo do processo."
+    },
+    {
+      "id": 5,
+      "title": "Como Gerenciar Tempo e Produtividade",
+      "content": "Trabalhar em projetos pessoais enquanto estudo e faço outras atividades pode ser difícil. Aqui estão algumas estratégias que uso para gerenciar meu tempo e ser mais produtivo."
+    }
+  ]
